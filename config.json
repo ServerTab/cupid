@@ -2,8 +2,8 @@
     "TOKEN": "process.env.token",
     "MONGO_DB": "mongodb+srv://s5ftne:pbky9v@cluster0.nta1lwy.mongodb.net/?retryWrites=true&w=majority",
     "cooldown": true,
-    "owner": ["1180425876798701588","1143155471159664710"],
-    "admin": ["747321055319949312"],
+    "owner": ["751347550702927882","1185831284891730003"],
+    "admin": ["751347550702927882"],
     "np": ["747321055319949312"],
     "invite": "https://discord.com/oauth2/authorize?client_id=1027828697828433980"
 }
